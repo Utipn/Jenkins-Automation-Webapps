@@ -10,8 +10,8 @@
 </head>
 <body>
 <h1 align="center">Welcome to Group 26 Web application Project.</h1>
-<h1 align="center">We work collaborate to ensure everyone is involved and everyone is carried along.
-	           We are perfecting Jenkins automation.
+<h1 align="center">We work collaboratively to ensure everyone is involved and everyone is carried along.
+<h1 align="center">We are currently perfecting Jenkins integrations and various automations including the CICD pipeline automation.
 	We are defintely moving forward as individuals and as a group in our DevOps journey.
 	Our group meetings hold every Wednesdays at 7pm MDT/MST. </h1>
 <hr>
