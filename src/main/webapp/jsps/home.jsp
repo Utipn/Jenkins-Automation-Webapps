@@ -13,7 +13,7 @@
 <h1 align="center">We work collaboratively to ensure everyone is involved and everyone is carried along.
 <h1 align="center">We are currently perfecting Jenkins integrations and various automations including the CICD pipeline automation.
 	We are defintely moving forward as individuals and as a group in our DevOps journey.
-	Our group meetings hold every Wednesdays at 7pm MDT/MST. </h1>
+<h2 align="center">Our group meetings hold every Wednesdays at 7pm MDT/MST. </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
