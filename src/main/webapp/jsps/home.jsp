@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tesla Web application Dubai23 Project.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising millionaires in IT automation.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
-	Class32 will start on April 15, 2023. </h1>
+<h1 align="center">Welcome to Group 26 Web application Project.</h1>
+<h1 align="center">We work collaborate to ensure everyone is involved and everyone is carried along.
+	           We are perfecting Jenkins automation.
+	We are defintely moving forward as individuals and as a group in our DevOps journey.
+	Our group meetings hold every Wednesdays at 7pm MDT/MST. </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
